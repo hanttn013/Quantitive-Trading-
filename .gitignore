@@ -1,0 +1,4 @@
+.agent
+.venv
+.env.example
+quant-command
